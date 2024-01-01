@@ -18,7 +18,7 @@
         name="msapplication-TileImage">
     <link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" rel="stylesheet">
-    <link href="./happy_new_year.css" rel="stylesheet">
+    <link href="./Happynewyear.css" rel="stylesheet">
 </head>
 
 <body>
@@ -96,7 +96,7 @@
     <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/329180/fscreen%401.0.1.js"></script>
     <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/329180/Stage%400.1.4.js"></script>
     <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/329180/MyMath.js"></script>
-    <script src="./happy_new_year.js"></script>
+    <script src="./Happynewyear.js"></script>
 </body>
 
 </html>
